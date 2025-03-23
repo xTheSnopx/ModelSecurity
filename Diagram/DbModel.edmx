@@ -24,7 +24,7 @@
             <End Role="FormModule" EntitySet="FormsModels" />
             <End Role="Module" EntitySet="Models" />
           </AssociationSet>
-          <EntitySet Name="Users" EntityType="DbModel.User" />
+          <EntitySet Name="Users" EntityType="DbModel.w" />
           <EntitySet Name="Rols" EntityType="DbModel.Rol" />
           <EntitySet Name="Rols_Users" EntityType="DbModel.Rol_User" />
           <AssociationSet Name="Rol_UserRol" Association="DbModel.Rol_UserRol">
@@ -92,7 +92,7 @@
           <End Type="DbModel.FormModule" Role="FormModule" Multiplicity="*" />
           <End Type="DbModel.Module" Role="Module" Multiplicity="1" />
         </Association>
-        <EntityType Name="User">
+        <EntityType Name="w">
           <Key>
             <PropertyRef Name="Id" />
           </Key>
@@ -129,7 +129,7 @@
         </Association>
         <Association Name="Rol_UserUser">
           <End Type="DbModel.Rol_User" Role="Rol_User" Multiplicity="*" />
-          <End Type="DbModel.User" Role="User" Multiplicity="1" />
+          <End Type="DbModel.w" Role="User" Multiplicity="1" />
         </Association>
         <EntityType Name="Permission">
           <Key>

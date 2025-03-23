@@ -11,7 +11,7 @@
         <AssociationConnector Association="DbModel.FormModelForm" />
         <AssociationConnector Association="DbModel.FormModuleModule" ManuallyRouted="false" >
         </AssociationConnector>
-        <EntityTypeShape EntityType="DbModel.User" Width="1.5" PointX="4" PointY="2" />
+        <EntityTypeShape EntityType="DbModel.w" Width="1.5" PointX="4" PointY="2" />
         <EntityTypeShape EntityType="DbModel.Rol" Width="1.5" PointX="4" PointY="6.75" />
         <EntityTypeShape EntityType="DbModel.Rol_User" Width="1.5" PointX="4" PointY="4.625" />
         <AssociationConnector Association="DbModel.Rol_UserRol" />

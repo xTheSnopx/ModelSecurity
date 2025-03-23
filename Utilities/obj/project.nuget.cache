@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+lnKxfbmbrZ7PykPZWIemTJ6qdgT0F2twcNKyu77SLxNNoBDuFwQdLA8M7GVcLxkX1smuacHPXdth/9ruNcbCw==",
+  "dgSpecHash": "c6Gr7SIRTac=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENA\\Desktop\\ModelSecurity\\Diagram\\Utilities\\Utilities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
