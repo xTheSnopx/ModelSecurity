@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\entity\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\dto\\model\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|solutionrelative:dto\\model\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\dto\\model\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|solutionrelative:dto\\model\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\dto\\model\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|solutionrelative:dto\\model\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\dto\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C05407E-F4F4-446E-A1A2-6A727314C428}|DTO\\DTO.csproj|solutionrelative:dto\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\entity\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,44 +50,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermissionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\PermissionDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Model\\PermissionDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\PermissionDTO.cs",
+              "RelativeToolTip": "DTO\\Model\\PermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:09:25.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RolDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\RolDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Model\\RolDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\RolDTO.cs",
+              "RelativeToolTip": "DTO\\Model\\RolDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:09:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Model\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\CreateUserDTO.cs",
+              "RelativeToolTip": "DTO\\Model\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:09:06.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Model\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\DTO\\Model\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\Model\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:07:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Modulo.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Modulo.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Modulo.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Modulo.cs",
               "RelativeToolTip": "Entity\\Model\\Modulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T18:00:52.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Permission.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Permission.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Permission.cs",
               "RelativeToolTip": "Entity\\Model\\Permission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:50.9Z"
+              "WhenOpened": "2025-03-23T18:00:50.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Rol.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Rol.cs",
               "RelativeToolTip": "Entity\\Model\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:49.475Z"
+              "WhenOpened": "2025-03-23T18:00:49.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -81,33 +151,34 @@
               "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\User.cs",
               "RelativeToolTip": "Entity\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:48.244Z"
+              "WhenOpened": "2025-03-23T18:00:48.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Form.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Form.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Form.cs",
               "RelativeToolTip": "Entity\\Model\\Form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:56:36.054Z"
+              "WhenOpened": "2025-03-23T14:56:36.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "DbModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Diagram\\DbModel.edmx",
               "RelativeDocumentMoniker": "Diagram\\DbModel.edmx",
               "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Diagram\\DbModel.edmx [Diagram1]",
               "RelativeToolTip": "Diagram\\DbModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-03-23T14:56:36.146Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-03-23T14:56:36.146Z"
             }
           ]
         }

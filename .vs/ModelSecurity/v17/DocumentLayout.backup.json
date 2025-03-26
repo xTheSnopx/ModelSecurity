@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Permission.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Permission.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "Entity\\Model\\Permission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:50.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T18:00:50.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Rol.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
@@ -72,12 +71,11 @@
               "RelativeToolTip": "Entity\\Model\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:49.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T18:00:49.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\User.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
@@ -85,12 +83,11 @@
               "RelativeToolTip": "Entity\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:48.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T18:00:48.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Form.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Form.cs",
@@ -98,12 +95,11 @@
               "RelativeToolTip": "Entity\\Model\\Form.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:56:36.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T14:56:36.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "DbModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Diagram\\DbModel.edmx",
               "RelativeDocumentMoniker": "Diagram\\DbModel.edmx",
