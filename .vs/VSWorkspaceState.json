@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Bussines",
+    "\\Data",
     "\\Diagram",
     "\\Entity",
     "\\Entity\\bin",
-    "\\Entity\\Context",
-    "\\Entity\\DTO",
     "\\Entity\\Model",
     "\\Entity\\obj",
-    "\\Entity\\Properties"
+    "\\Entity\\obj\\Debug",
+    "\\Entity\\obj\\Release"
   ],
-  "SelectedNode": "\\Entity\\Model\\Rol.cs",
+  "SelectedNode": "\\Entity\\Model\\Form.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -45,11 +45,19 @@
     <Compile Include="DTO\CreateUserDTO.cs" />
     <Compile Include="DTO\PermissionDTO.cs" />
     <Compile Include="DTO\RolDTO.cs" />
+    <Compile Include="DTO\PqrDto.cs" />
+    <Compile Include="DTO\ClientDto.cs" />
+    <Compile Include="DTO\WorkerLoginDto.cs" />
+    <Compile Include="DTO\WorkerDto.cs" />
     <Compile Include="DTO\UserDTO.cs" />
     <Compile Include="Model\Modulo.cs" />
     <Compile Include="Model\Permission.cs" />
     <Compile Include="Model\Form.cs" />
     <Compile Include="Model\Rol.cs" />
+    <Compile Include="Model\Pqr.cs" />
+    <Compile Include="Model\Client.cs" />
+    <Compile Include="Model\WorkerLogin.cs" />
+    <Compile Include="Model\Worker.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
