@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Context\ApplicationDbContext.cs" />
+    <Compile Include="DTO\CreateUserDTO.cs" />
+    <Compile Include="DTO\PermissionDTO.cs" />
+    <Compile Include="DTO\RolDTO.cs" />
+    <Compile Include="DTO\UserDTO.cs" />
     <Compile Include="Model\Modulo.cs" />
     <Compile Include="Model\Permission.cs" />
     <Compile Include="Model\Form.cs" />
