@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\",
+  "WorkspaceRootPath": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\security\\modelsecurity\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Context\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Model\\Rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Model\\Permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Model\\Modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\DTO\\CreateUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\DTO\\CreateUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\DTO\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\DTO\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Model\\Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,82 +48,87 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Entity\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T05:52:28.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\DTO\\UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\DTO\\UserDTO.cs",
               "RelativeToolTip": "Entity\\DTO\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:12:35.77Z"
+              "WhenOpened": "2025-03-27T04:12:35.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CreateUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\DTO\\CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\DTO\\CreateUserDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\CreateUserDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\DTO\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\DTO\\CreateUserDTO.cs",
               "RelativeToolTip": "Entity\\DTO\\CreateUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:12:05.084Z"
+              "WhenOpened": "2025-03-27T04:12:05.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Modulo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Modulo.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Modulo.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Modulo.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Modulo.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Modulo.cs",
               "RelativeToolTip": "Entity\\Model\\Modulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:52.444Z"
+              "WhenOpened": "2025-03-23T18:00:52.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Permission.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Permission.cs",
+              "RelativeToolTip": "Entity\\Model\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:00:50.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Rol.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Rol.cs",
+              "RelativeToolTip": "Entity\\Model\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:00:49.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Permission.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Permission.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Permission.cs",
-              "RelativeToolTip": "Entity\\Model\\Permission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:50.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Rol.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Rol.cs",
-              "RelativeToolTip": "Entity\\Model\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:00:49.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\User.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\User.cs",
               "RelativeToolTip": "Entity\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Form.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Form.cs",
+              "DocumentMoniker": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Form.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Form.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Entity\\Model\\Form.cs",
+              "ToolTip": "C:\\Users\\PC-HUERTAS\\Desktop\\Proyectos SENA\\Actividad Corredor\\ModelSecurity\\Entity\\Model\\Form.cs",
               "RelativeToolTip": "Entity\\Model\\Form.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

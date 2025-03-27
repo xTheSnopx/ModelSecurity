@@ -33,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE41067-7750-47D9-B338-863A51365ADE}|Entity\\Entity.csproj|solutionrelative:entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{4EE1FAF2-7844-48A5-9A4A-5DFE269E72E0}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -144,17 +140,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T14:56:36.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DbModel.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Diagram\\DbModel.edmx",
-              "RelativeDocumentMoniker": "Diagram\\DbModel.edmx",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Security\\ModelSecurity\\Diagram\\DbModel.edmx [Diagram1]",
-              "RelativeToolTip": "Diagram\\DbModel.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-03-23T14:56:36.146Z"
             }
           ]
         }
