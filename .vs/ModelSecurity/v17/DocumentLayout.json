@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\entity\\model\\basemodel\\abasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|solutionrelative:entity\\model\\basemodel\\abasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|solutionrelative:entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\entity\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|solutionrelative:entity\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\entity\\dto\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239033A6-BFA2-4A7D-BAD9-2CA54C54FAAB}|Data\\Data.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239033A6-BFA2-4A7D-BAD9-2CA54C54FAAB}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C4A3E-CB2D-49B6-969D-0BFC8DF8894E}|Business\\Business.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{278C4A3E-CB2D-49B6-969D-0BFC8DF8894E}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7477DE9A-71A4-45F9-BE02-257D1DD348B4}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB2A9B9-57C6-484E-8A30-562142DABC3E}|Utilities\\Utilities.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB2A9B9-57C6-484E-8A30-562142DABC3E}|Utilities\\Utilities.csproj|solutionrelative:utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C4A3E-CB2D-49B6-969D-0BFC8DF8894E}|Business\\Business.csproj|c:\\users\\xjuan\\source\\repos\\modelsecurity\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278C4A3E-CB2D-49B6-969D-0BFC8DF8894E}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Context\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Context\\AplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Context\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:10:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\DTO\\Base\\BaseDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\Base\\BaseDTO.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\DTO\\Base\\BaseDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\Base\\BaseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:06:12.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T19:58:23.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ABaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\BaseModel\\ABaseModel.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\BaseModel\\ABaseModel.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\BaseModel\\ABaseModel.cs",
+              "RelativeToolTip": "Entity\\Model\\BaseModel\\ABaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:54:46.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:54:05.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\Person.cs",
+              "RelativeToolTip": "Entity\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:53:45.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\Rol.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Entity\\Model\\Rol.cs",
+              "RelativeToolTip": "Entity\\Model\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:53:10.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Utilities\\Class1.cs",
+              "RelativeDocumentMoniker": "Utilities\\Class1.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Utilities\\Class1.cs",
+              "RelativeToolTip": "Utilities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:46:41.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Business\\Class1.cs",
+              "RelativeToolTip": "Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:46:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\XJuan\\source\\repos\\ModelSecurity\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:40:05.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
